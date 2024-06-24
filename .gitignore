@@ -1,2 +1,7 @@
 node_modules/
 .vuepress/dist/
+.DS_Store
+.vuepress/.DS_Store
+www/.DS_Store
+www/assets/img/.DS_Store
+www/assets/.DS_Store

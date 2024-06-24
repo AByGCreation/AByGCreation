@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="ftp.cluster014.hosting.ovh.net" id="60e126a4-0b08-4fe9-9dad-7947d9db4254" port="22" nameFormat="DESCRIPTIVE" username="abygcrea" useOpenSSHConfig="false" />
+    </configs>
+  </component>
+</project>

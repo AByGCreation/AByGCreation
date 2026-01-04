@@ -69,27 +69,16 @@ Ingénieur généraliste et électronicien de formation, je me spécialise dans 
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AByGCreation&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=C9D1D9)
-
-
-</div>
-
----
-
 ## 💡 Philosophie de travail
 
 > "The Alternative Solution" - Trouver des solutions innovantes et pragmatiques pour automatiser, optimiser et transformer les processus industriels et de services.
 
 ### 🌟 Mes valeurs
 
-- ✅ **Innovation** : Toujours chercher la meilleure solution technique
+- ✅ **Innovation** : Chercher la solution technique la plus adaptée
 - ✅ **Pragmatisme** : Des solutions concrètes et opérationnelles
 - ✅ **Excellence** : Qualité et rigueur dans chaque projet
-- ✅ **Collaboration** : Travail d'équipe et partage de connaissances
+- ✅ **Collaboration** : Travail en équipe / partage de connaissances
 
 ---
 
